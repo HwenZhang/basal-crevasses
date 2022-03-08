@@ -34,8 +34,8 @@ Thanks to
 * [Ching-Yao Lai](https://geosciences.princeton.edu/people/ching-yao-lai)
 for their insightful suggestions for the LEFM model of the crevasses.
 
-Thanks to
+The basic idea that we explore arose during a conversation with
 * [Poul Christoffersen](https://www.spri.cam.ac.uk/people/christoffersen/)
-* [Robert Law](https://www.spri.cam.ac.uk/people/law/)
+* [Robert Law](https://www.spri.cam.ac.uk/people/law/).
 
 This research received funding from the European Research Council under Horizon 2020 research and innovation program grant agreement number 772255.
