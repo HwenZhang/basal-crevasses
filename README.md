@@ -4,7 +4,7 @@ This repository contains the code for the manuscript "Basal hydrofracture near s
 
 ## Description
 
-Each folder named "Figure_n" (n=1,2,3...) contains the code to produce the corresponding figure in the manuscript. The computation relies on the open-source finite element library FEniCS and boundary element code developed by Tim Davis.
+Each folder named "Figure_n" (n=1,2,3...) contains the code to produce the corresponding figure in the manuscript. The computation relies on the open-source finite element library FEniCS (Logg and Wells, [2010](https://doi.org/10.1145/1731022.1731030)) and boundary element code developed by Davis, [2017](https://abdn.primo.exlibrisgroup.com/discovery/delivery/44ABE_INST:44ABE_VU1/12153058290005941?lang=en&viewerServiceCode=AlmaViewer). 
 
 ## Instructions for Use
 
@@ -40,13 +40,8 @@ Contributors names and contact info
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-## Version History
+## Reference
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
