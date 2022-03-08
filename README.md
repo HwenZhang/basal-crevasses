@@ -32,6 +32,7 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 Thanks to
 * [Brad Lipovsky](https://www.ess.washington.edu/people/profile.php?pid=lipovsky--brad)
 * [Ching-Yao Lai](https://geosciences.princeton.edu/people/ching-yao-lai)
+* 
 for their insightful suggestions for the LEFM model of the crevasses.
 
 The basic idea that we explore arose during a conversation with
