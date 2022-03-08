@@ -1,6 +1,6 @@
 # Basal hydrofractures near sticky patches
 
-This repository contains the code for the manuscript "Basal hydrofracture near sticky patches", which is planned to be submitted to [Journal of Galciology](https://www.cambridge.org/core/journals/journal-of-glaciology). The work aims to study the hydrofracture propagation near the sticky patches that are regions with higher basal shear stress under glaciers or ice sheets.
+This repository contains the code for the manuscript "Basal hydrofracture near sticky patches", which is planned to be submitted to [Journal of Galciology](https://www.cambridge.org/core/journals/journal-of-glaciology). The work aims to study the mode-I and mixed-mode hydrofracture propagation near the sticky patches that are regions with higher basal shear stress under glaciers or ice sheets.
 
 ## Description
 
@@ -10,13 +10,8 @@ Each folder named "Figure_n" (n=1,2,3...) contains the code to produce the corre
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* [FEniCS](https://fenicsproject.org/) (Preferred in a Dokcer Container).
+* [Gmsh](https://gmsh.info/) (Optional, since the mesh files are already provided).
 
 ### Executing program
 
