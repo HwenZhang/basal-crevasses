@@ -15,14 +15,6 @@ Each figure can be produced seperately by using the scripts and following the in
 * [FEniCS](https://fenicsproject.org/) (Preferred in a Dokcer Container).
 * [Gmsh](https://gmsh.info/)
 
-## Authors
-
-Hanwen Zhang
-Timmothy Davis
-Richard Katz
-Laura Stevens
-Dave May
-
 ## Acknowledgments
 
 Thanks to
