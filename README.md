@@ -23,10 +23,6 @@ Richard Katz
 Laura Stevens
 Dave May
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
 Thanks to
