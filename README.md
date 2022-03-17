@@ -1,5 +1,7 @@
 # Basal hydrofractures near sticky patches
 
+[![DOI](https://zenodo.org/badge/467233942.svg)](https://zenodo.org/badge/latestdoi/467233942)
+
 This repository contains the code for the manuscript "Basal hydrofracture near sticky patches", which is planned to be submitted to [Journal of Galciology](https://www.cambridge.org/core/journals/journal-of-glaciology). The work aims to studying the mode-I and mixed-mode hydrofracture propagation near the sticky patches that are regions with higher basal shear stress under glaciers or ice sheets.
 
 ## Description
